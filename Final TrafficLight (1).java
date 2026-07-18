@@ -1,3 +1,8 @@
+/**
+ * TrafficLightSimulator - A graphical traffic light application.
+ * @author Amar Deili
+ * @version 1.0
+ */
 package test;
 
 import java.awt.*;
